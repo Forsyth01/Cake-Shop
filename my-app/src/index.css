@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,500;1,400&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: italic;
+}
+
+.navbar{
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+}
+
+input{
+    display: block;
+    /* outline: none; */
+}
+
+.addtocart button {
+    /* background-color: brown; */
+    /* background-color: rgb(187, 69, 69); */
+}
+
+.brown{
+    color: brown;
+}
+
+.header{
+    background-color: rgb(187, 69, 69);
+}
+nav{
+    position: static;
+}

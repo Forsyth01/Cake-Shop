@@ -1,0 +1,20 @@
+{
+  "posts" : [
+      {
+          "img": "../Images/pngfind.com-cake-png-588273.png",
+          "title" : "Vanilla Cake",
+          "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta perferendis officia ullam commodi, omnis dolores.",
+          "amount": 50,
+          "items": 1,
+          "id": 1
+      },
+      {
+          "img": "../Images/pngfind.com-cake-png-588273.png",
+          "title" : "Vanilla Cake",
+          "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta perferendis officia ullam commodi, omnis dolores.",
+          "amount": 50,
+          "items": 1,
+          "id": 2
+      }
+  ]
+}
